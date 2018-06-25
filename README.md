@@ -1,4 +1,4 @@
-# TipTapToe
+# Tip Tap Toe
 ## An interactive button game that generates random numbers for each player side
 
 ### ScreenShot of the App
