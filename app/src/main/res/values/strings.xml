@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tip Tap Toe</string>
+    <string name="team_name">ME</string>
+    <string name="team_name2">YOU</string>
+    <string name="one">TIP</string>
+    <string name="two">TAP</string>
+    <string name="three">TOE</string>
+    <string name="four">TIP</string>
+    <string name="five">TAP</string>
+    <string name="six">TOE</string>
+    <string name="reset">PLAY AGAIN</string>
+</resources>
